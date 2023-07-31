@@ -1,0 +1,15 @@
+C:\dev\PROJETOS INICIAIS\MeuApp\bin\Debug\net7.0\MeuApp.exe
+C:\dev\PROJETOS INICIAIS\MeuApp\bin\Debug\net7.0\MeuApp.deps.json
+C:\dev\PROJETOS INICIAIS\MeuApp\bin\Debug\net7.0\MeuApp.runtimeconfig.json
+C:\dev\PROJETOS INICIAIS\MeuApp\bin\Debug\net7.0\MeuApp.dll
+C:\dev\PROJETOS INICIAIS\MeuApp\bin\Debug\net7.0\MeuApp.pdb
+C:\dev\PROJETOS INICIAIS\MeuApp\obj\Debug\net7.0\MeuApp.csproj.AssemblyReference.cache
+C:\dev\PROJETOS INICIAIS\MeuApp\obj\Debug\net7.0\MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\PROJETOS INICIAIS\MeuApp\obj\Debug\net7.0\MeuApp.AssemblyInfoInputs.cache
+C:\dev\PROJETOS INICIAIS\MeuApp\obj\Debug\net7.0\MeuApp.AssemblyInfo.cs
+C:\dev\PROJETOS INICIAIS\MeuApp\obj\Debug\net7.0\MeuApp.csproj.CoreCompileInputs.cache
+C:\dev\PROJETOS INICIAIS\MeuApp\obj\Debug\net7.0\MeuApp.dll
+C:\dev\PROJETOS INICIAIS\MeuApp\obj\Debug\net7.0\refint\MeuApp.dll
+C:\dev\PROJETOS INICIAIS\MeuApp\obj\Debug\net7.0\MeuApp.pdb
+C:\dev\PROJETOS INICIAIS\MeuApp\obj\Debug\net7.0\MeuApp.genruntimeconfig.cache
+C:\dev\PROJETOS INICIAIS\MeuApp\obj\Debug\net7.0\ref\MeuApp.dll
